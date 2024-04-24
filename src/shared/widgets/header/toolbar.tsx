@@ -10,8 +10,8 @@ const toolbar = () => {
         Start Trial
       </Button>
       <Link href={"/sign-up"}>
-        <Button color="success" className="text-lg">
-          Login
+        <Button color="default" className="text-lg">
+          Register
         </Button>
       </Link>
     </>
