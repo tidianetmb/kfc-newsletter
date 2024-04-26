@@ -24,7 +24,7 @@ const FeatureHighlight = () => {
         <br />
         <p className="text-cyber-ink text-xl md:text-2xl max-w-lg font-[400]">
           ⚠️Are you looking to create a SaaS as quickly ⚡️ as possible ?{" "}
-          <br></br> 🤓 You're in the right place !
+          <br></br> 🤓 You are in the right place !
         </p>
         <br />
         <Button className="bg-white border-[2px] border-[#000] rounded text-2xl !p-7 !px-16">
