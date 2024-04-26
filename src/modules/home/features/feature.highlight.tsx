@@ -19,12 +19,12 @@ const FeatureHighlight = () => {
         </h2>
         <br />
         <h3 className="text-cyber-ink text-xl md:text-3xl max-w-lg font-semibold">
-          The most powerful editing and design tools in email.
+          The most powerful editing and design tools for building your own SaaS.
         </h3>
         <br />
         <p className="text-cyber-ink text-xl md:text-2xl max-w-lg font-[400]">
-          Warning: A writing experience unlike anything you&lsquo;ve ever
-          experienced - proceed with caution.
+          ⚠️Are you looking to create a SaaS as quickly ⚡️ as possible ?{" "}
+          <br></br> 🤓 You're in the right place !
         </p>
         <br />
         <Button className="bg-white border-[2px] border-[#000] rounded text-2xl !p-7 !px-16">
